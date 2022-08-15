@@ -1,6 +1,5 @@
-# **OSSF Education SIG**
-This SIG is dedicated to educating learners of all levels and backgrounds on how to create, compose, deploy, and maintain software securely using best practices in cyber and application security.
-
+# **OpenSSF Education Special Interest Group (SIG)**
+This Education SIG is a group working within the [OpenSSF's Best Practices Working Group](https://github.com/ossf/wg-best-practices-os-developers) formed to advance and deliver upon [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8).  This SIG is dedicated to providing industry standard secure software development training materials that will educate learners of all levels and backgrounds on how to create, compose, deploy, and maintain software securely using best practices in cyber and application security.
 
 ## 
 **Motivation**
@@ -32,7 +31,7 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 # 
 **Get Involved**
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
+*   Official communications occur on the [openssf-sig-education@lists.openssf.org](https://lists.openssf.org/g/openssf-sig-education).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 *   [Add Slack information if availabable]
 
