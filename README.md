@@ -33,14 +33,15 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 
 *   Official communications occur on the [openssf-sig-education@lists.openssf.org](https://lists.openssf.org/g/openssf-sig-education).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Add Slack information if availabable]
+*   [Mobilization Stream 1 Slack](https://openssf.slack.com/archives/C03B9AP95LG)
+*   [Developer Best Practices WG Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
 
 ### 
 Quick Start
 
 *   Areas that need contributions
 *   Build information if applicable
-*   Where to file issues
+*   Where to file issues - https://github.com/ossf/education/issues
 *   Etc.
 
 ## 
