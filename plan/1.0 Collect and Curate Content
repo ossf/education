@@ -1,0 +1,102 @@
+1.0 -COLLECT AND CURATE CONTENT
+
+1.1 Goal:  Existing materials from the OpenSSF, OWASP, industry groups, and major open source projects will be collected and analyzed for gaps for needed content
+      Explanation: Before training can be expanded, materials should be collected to understand what is available and what gaps exist in current artifacts so that new materials can be created to fill those gaps or desired new areas.
+                   Key Steps/Milestones 
+Review existing LF/OpenSSF secure development materials
+Review existing OWASP secure development materials
+Review existing industry secure development materials
+SAFECode
+(ISC)2
+…
+Survey to find out “what’s missing” / “what's wrong”
+Perform gap analysis against existing OSSF materials & classes; document areas new content is desired/required
+                  Time & resource estimate 164 hours volunteer work YEAR 1
+4 SIG members will take 2 hours to develop survey
+4 SIG members will take 2 hours to review survey results
+10 SIG members will take 10 hours each to collect content
+10 SIG members will take 4 hours apiece to review & identify gaps
+2 SIG members will take 4 hours to assemble list of desired new content 
+
+
+1.2 Goal:  Create an Open Educational Resource (OER) library of secure development practices
+      Explanation: After materials have been collected and reviewed, a location to stage and publish these items to learners will need to be created.  This will require some type of web-accessible portal and back-end storage that can store various types of learning materials (documents, presentations, video webinars, etc.).
+                   Key Steps/Milestones 
+Hire OER Librarian to manage, coordinate, and maintain content library
+Decide where, perhaps on a Open Educational Resource platform https://www.oercommons.org/ and/or LF Training & Certification platform
+                  Time & resource estimate 1 FTE + $100k for tooling YEAR 1
+ 
+1.3 Goal:   Focus not just on development skills and techniques, but also associated skills modern developers need such as access controls, testing /validation, and how to build, deploy, and maintain software in DevSecOps scenarios, and training for managers of developers or whom oversee open source, as well as Web/Api, Infra and CI/CD, Desktop applications, and Mobile
+      Explanation:  
+                   Key Steps/Milestones 
+ 
+
+
+                  Time & resource estimate 
+
+1.4 Goal:  Define training areas of focus
+Explanation:  
+            Key Steps/Milestones 
+Higher Ed
+Trade school/boot camp/professional
+Job change training (new to the career path)
+Primary/secondary Pre-career education
+Managers of software developers
+Trainers ( Aka Train the trainers )
+Contributor/Maintainer training (how to do a pr, maintenance)
+Compliance
+ 
+
+
+                  Time & resource estimate 
+
+1.5 Goal:   Create a corps of qualified trainers to deliver this courseware
+      Explanation:  
+                   Key Steps/Milestones 
+ 
+
+
+                  Time & resource estimate 
+
+
+1.6 Goal:  Determine venues and personas that content will be created for/delivered to 
+      Explanation:  
+                  Key Steps/Milestones 
+ Provide training on the above for at least four major open source developer or security conferences during the 1st year, such as FOSDEM, SCALE, and Open Source Summit, KubeCon. Different curricula will be needed to target the developer audiences of security, devops
+
+
+                  Time & resource estimate 
+
+1.7 Goal:   Create a unified approach to delivering certification and badging no matter where such training has been delivered, building upon the existing Linux Foundation certification infrastructure
+      Explanation:  
+                   Key Steps/Milestones 
+ 
+
+
+                  Time & resource estimate 
+
+
+1.8 Goal:  Develop in-person educator-led variations of training materials (e.g., with hands-on lab work) & go to conferences to encourage training (4 person x $300K): $1.2M
+      Explanation:  
+                   Key Steps/Milestones 
+ 
+
+
+                  Time & resource estimate 
+
+1.9 Goal:  Localize the most critical educational materials
+      Explanation:  
+                   Key Steps/Milestones 
+ (5 human, non-English languages x $200K/language)
+
+
+                  Time & resource estimate $1M in YEAR2
+
+
+1.10 Goal:  Identify areas where developers are copying or extracting insecure code snippets and work to correct the most widely-applied vulnerable snippets in order to address common problems and challenges, such as those found on StackOverflow.
+Provide justification and reasoning on the change to support educating adopters of snippets, and ensure that proposed text is properly licensed as OSS (e.g., MIT, not just CC licenses because they don’t address patents). Build on existing research in this area.
+
+
+      Explanation:  
+                   Key Steps/Milestones XXX   in YEAR2
+
