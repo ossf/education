@@ -59,3 +59,27 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 [OPTIONAL]
 *   Lead name: [CRob](https://github.com/SecurityCRob)
 *   Co-Lead name: TBD
+
+## SIG Maintainers
+CRob, Intel
+Dave Russo, Red Hat
+David A. Wheeler, Linux Foundation
+Emily Fox, Apple, CNCF TOC
+Glenn ten Cate, SKF
+Sal Kimmich, Sonatype
+
+## SIG Collaborators
+Avishay Balter, Microsoft
+Brian Fox, Sonatype, OSSF GB
+Christine Abernathy, F5
+Dan Appelquist, Snyk
+Eric Tice, Wipro
+Georg Kunz, Ericsson
+Judy Kelly, Red Hat
+Marta Rybczynska, OSTC
+Matt Rutkowski, IBM
+Randall T. Vasquez, Gentoo/Homebrew
+Riccardo ten Cate, SKF
+Sebastian Crane, SPDX
+Tom Ritter, DIN
+VM (Vicky) Brasseur, Wipro
