@@ -61,11 +61,11 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 *   Co-Lead name: TBD
 
 ## SIG Maintainers
-- CRob, Intel
-- Dave Russo, Red Hat
-- David A. Wheeler, Linux Foundation
-- Emily Fox, Apple, CNCF TOC
-- Glenn ten Cate, SKF
+- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
+- [Dave Russo, Red Hat](https://github.com/drusso-rh)
+- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
+- [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
+- [Glenn ten Cate, SKF](https://github.com/blabla1337)
 - Sal Kimmich, Sonatype
 - VM (Vicky) Brasseur, Wipro
 
@@ -75,8 +75,8 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - Christine Abernathy, F5
 - Dan Appelquist, Snyk
 - Eric Tice, Wipro
-- Georg Kunz, Ericsson
-- Judy Kelly, Red Hat
+- [Georg Kunz, Ericsson](https://github.com/gkunz)
+- [Judy Kelly, Red Hat](https://github.com/judyobrienie)
 - Marta Rybczynska, OSTC
 - Matt Rutkowski, IBM
 - Randall T. Vasquez, Gentoo/Homebrew
