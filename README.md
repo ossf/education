@@ -67,6 +67,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 - [Glenn ten Cate, SKF](https://github.com/blabla1337)
+- [Judy Kelly, Red Hat](https://github.com/judyobrienie)
 - Sal Kimmich, Sonatype
 - VM (Vicky) Brasseur, Wipro
 
@@ -77,7 +78,6 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - Dan Appelquist, Snyk
 - Eric Tice, Wipro
 - [Georg Kunz, Ericsson](https://github.com/gkunz)
-- [Judy Kelly, Red Hat](https://github.com/judyobrienie)
 - Marta Rybczynska, OSTC
 - Matt Rutkowski, IBM
 - Randall T. Vasquez, Gentoo/Homebrew
