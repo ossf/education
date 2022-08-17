@@ -58,7 +58,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 [OPTIONAL]
 *   Lead name: [CRob](https://github.com/SecurityCRob)
-*   Co-Lead name: TBD
+*   Co-Lead name: [Dave Russo](https://github.com/drusso-rh)
 
 ## SIG Maintainers
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
