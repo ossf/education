@@ -7,7 +7,7 @@ The OpenSSF proposes the following multi-pronged approach to addressing this iss
 
 
 ## The Proposed Plan
-- [1.0 Collect & Curate Content](https://github.com/ossf/education/blob/CRob-Plan-1/plan/1.0%20Collect%20and%20Curate%20Content.md)
+- [1.0 Collect & Curate Content](https://github.com/ossf/education/blob/main/plan/1.0%20Collect%20and%20Curate%20Content.md)
 - [2.0 Expand Training](https://github.com/ossf/education/blob/CRob-Plan-1/plan/2.0%20Expand%20Training.md)
 - [3.0 Reward and Incentivize Developers and Maintainers](https://github.com/ossf/education/blob/CRob-Plan-1/plan/3.0%20Reward%20and%20Incentivize%20Developers%20and%20Maintainers.md)
 - [Proposal Summary](https://github.com/ossf/education/blob/CRob-Plan-1/plan/proposal_summary)
