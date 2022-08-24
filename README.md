@@ -24,10 +24,9 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 ## 
 **Prior Work**
 
-[Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
-[The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
+* [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
+* [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
 
-*   List of prior and/or related projects
 
 # 
 **Get Involved**
