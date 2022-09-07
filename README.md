@@ -86,7 +86,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 ## SIG Collaborators
 - [Avishay Balter, Microsoft](https://github.com/balteravishay)
 - [Brian Fox, Sonatype, OSSF GB](https://github.com/)
-- [Christine Abernathy, F5](https://github.com/ caabernathy)
+- [Christine Abernathy, F5](https://github.com/caabernathy)
 - [Dan Appelquist, Snyk](https://github.com/Torgo)
 - [Eric Tice, Wipro](https://github.com/erictice)
 - [Georg Kunz, Ericsson](https://github.com/gkunz)
