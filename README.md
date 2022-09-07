@@ -4,10 +4,12 @@ This Education SIG is a group working within the [OpenSSF's Best Practices Worki
 ## 
 **Motivation**
 
-Historically, little attention is paid in traditional software engineering coursework that highlights and teaches the importance of good cyber security hygiene and secure coding techniques. Complicating the lack of trained developers is the ever-growing [shortage](https://www.cyberseek.org/heatmap.html) of trained cyber security professionals that can assist developers as they create, test, and release their code.
+Historically, little attention is paid in traditional software engineering coursework that highlights and teaches the importance of good cyber security hygiene and secure development techniques. Complicating the lack of trained developers is the ever-growing [shortage](https://www.cyberseek.org/heatmap.html) of trained cyber security professionals that can assist developers as they create, test, and release their code.
 
 ## 
 **Objective**
+- Provide access to open and widely available education materials to all learners
+- Materials will be maximally accessible and easy to consume for all learners
 
 Deliver Baseline Secure Software Development Education and Certification to All by:
 - Collecting & Curating Content
@@ -17,9 +19,19 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 
 ## 
 **Scope**
-
+Work in Progress
+### What is in Scope ###
 [What is in and out of scope]
+- Training and education around secure software development, management, deployment, distribution and data access controls
+- Incentivize learning and hiring of certified practictioners
+- Provide platform(s) for showcasing certifications for learners
+- Collaboration with educators 
 
+### What is out of Scope ##
+- Reporting of unknown security vulnerabilities in open source projects or taking action to remediate vulnerabilities.
+- Helping projects or individual enterprises with remediating their own security exposures from another open-source project’s security vulnerabilities
+
+For deatils of what the SIG will be delivering can be found in the revise [plan](https://github.com/ossf/education/tree/main/plan)
 
 ## 
 **Prior Work**
@@ -69,18 +81,17 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Glenn ten Cate, SKF](https://github.com/blabla1337)
 - [Judy Kelly, Red Hat](https://github.com/judyobrienie)
 - Sal Kimmich, Sonatype
-- VM (Vicky) Brasseur, Wipro
+- [VM (Vicky) Brasseur, Wipro](https://github.com/vmbrasseur)
 
 ## SIG Collaborators
-- Avishay Balter, Microsoft
-- Brian Fox, Sonatype, OSSF GB
-- Christine Abernathy, F5
-- Dan Appelquist, Snyk
-- Eric Tice, Wipro
+- [Avishay Balter, Microsoft](https://github.com/balteravishay)
+- [Brian Fox, Sonatype, OSSF GB](https://github.com/
+- [Christine Abernathy, F5](https://github.com/ caabernathy)
+- [Dan Appelquist, Snyk](https://github.com/Torgo)
+- [Eric Tice, Wipro](https://github.com/erictice)
 - [Georg Kunz, Ericsson](https://github.com/gkunz)
-- Marta Rybczynska, OSTC
-- Matt Rutkowski, IBM
-- Randall T. Vasquez, Gentoo/Homebrew
-- Riccardo ten Cate, SKF
-- Sebastian Crane, SPDX
-- Tom Ritter, DIN
+- [Marta Rybczynska, OSTC](https://github.com/
+- [Matt Rutkowski, IBM](https://github.com/
+- [Randall T. Vasquez, Gentoo/Homebrew](https://github.com/ran-dall)
+- [Riccardo ten Cate, SKF](https://github.com/
+- [Sebastian Crane, SPDX](https://github.com/
