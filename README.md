@@ -80,18 +80,18 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 - [Glenn ten Cate, SKF](https://github.com/blabla1337)
 - [Judy Kelly, Red Hat](https://github.com/judyobrienie)
-- Sal Kimmich, Sonatype
+- [Sal Kimmich, Sonatype](https://github.com/)
 - [VM (Vicky) Brasseur, Wipro](https://github.com/vmbrasseur)
 
 ## SIG Collaborators
 - [Avishay Balter, Microsoft](https://github.com/balteravishay)
-- [Brian Fox, Sonatype, OSSF GB](https://github.com/
+- [Brian Fox, Sonatype, OSSF GB](https://github.com/)
 - [Christine Abernathy, F5](https://github.com/ caabernathy)
 - [Dan Appelquist, Snyk](https://github.com/Torgo)
 - [Eric Tice, Wipro](https://github.com/erictice)
 - [Georg Kunz, Ericsson](https://github.com/gkunz)
-- [Marta Rybczynska, OSTC](https://github.com/
-- [Matt Rutkowski, IBM](https://github.com/
+- [Marta Rybczynska, OSTC](https://github.com/)
+- [Matt Rutkowski, IBM](https://github.com/)
 - [Randall T. Vasquez, Gentoo/Homebrew](https://github.com/ran-dall)
-- [Riccardo ten Cate, SKF](https://github.com/
-- [Sebastian Crane, SPDX](https://github.com/
+- [Riccardo ten Cate, SKF](https://github.com/)
+- [Sebastian Crane, SPDX](https://github.com/)
