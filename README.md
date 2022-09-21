@@ -26,10 +26,13 @@ Work in Progress
 - Incentivize learning and hiring of certified practictioners
 - Provide platform(s) for showcasing certifications for learners
 - Collaboration with educators 
+- Improve existing security education and OSS project security with our educational material
 
 ### What is out of Scope ##
 - Reporting of unknown security vulnerabilities in open source projects or taking action to remediate vulnerabilities.
 - Helping projects or individual enterprises with remediating their own security exposures from another open-source project’s security vulnerabilities
+- Providing personal guidance or feedback to individuals or groups using the educational materials
+- Assisting with technical issues related to the educational materials
 
 For deatils of what the SIG will be delivering can be found in the revise [plan](https://github.com/ossf/education/tree/main/plan)
 
