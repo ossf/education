@@ -68,8 +68,7 @@ Quick Start
 # 
 **Governance**
 
-[TODO: Update this link to your specific CHARTER.md file]
-The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
+The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
 
 [OPTIONAL]
