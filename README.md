@@ -71,7 +71,6 @@ Quick Start
 The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
 
-[OPTIONAL]
 *   Lead name: [CRob](https://github.com/SecurityCRob)
 *   Co-Lead name: [Dave Russo](https://github.com/drusso-rh) 
 
