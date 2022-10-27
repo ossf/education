@@ -2,7 +2,7 @@
 
 ## Description
 
-A computer emergency response team (CERT) is a group of experts who respond to cybersecurity incidents. These teams deal with the evolution of malware, viruses and other cyberattacks.
+A Computer Emergency Response Team (CERT) is a group of experts who respond to cybersecurity incidents. These teams deal with the evolution of malware, viruses and other cyberattacks.
 
 ## Source
 

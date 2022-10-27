@@ -2,7 +2,7 @@
 
 ## Description
 
-A Product Security Incident Response Team is responsible for identifying, assessing and remediating risks associated with security vulnerabilities within the products of an organization.
+A Product Security Incident Response Team (PSIRT) is responsible for identifying, assessing and remediating risks associated with security vulnerabilities within the products of an organization.
 
 ## Source
 

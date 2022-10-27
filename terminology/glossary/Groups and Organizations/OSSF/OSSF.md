@@ -2,7 +2,7 @@
 
 ## Description
 
-The Open Source Security Foundation is a Linux Foundation, cross-industry forum collaborating to improve open source software security.
+The Open Source Security Foundation (OSSF) is a Linux Foundation, cross-industry forum collaborating to improve open source software security.
 
 ## Source
 

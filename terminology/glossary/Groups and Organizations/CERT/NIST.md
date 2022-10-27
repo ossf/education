@@ -2,7 +2,7 @@
 
 ## Description
 
-Computer Emergency Readiness Team
+Computer Emergency Readiness Team (CERT)
 
 ## Source
 
