@@ -3,7 +3,7 @@
 ## The Problem:
 Historically, little attention is paid in traditional software engineering coursework that high-lights and teaches the importance of good cyber security hygiene and secure coding tech-niques. Complicating the lack of trained developers is the ever-growing shortage of trained cyber security professionals that can assist developers as they create, test, and release their code. 
 
-The OpenSSF proposes the following multi-pronged approach to addressing this issue:collect and curate content; expand training; and reward and incentivize developers.
+The OpenSSF proposes the following multi-pronged approach to addressing this issue: collect and curate content; expand training; and reward and incentivize developers.
 
 
 ## The Proposed Plan
