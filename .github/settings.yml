@@ -2,10 +2,10 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: project-template
+  name: wg-vulnerability-disclosures
 
   # A short description of the repository that will show up on GitHub
-  description: OpenSSF Project Template
+  description: The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting and communication.
 
   # A URL with more information about the repository
   homepage: https://openssf.org
@@ -17,13 +17,21 @@ repository:
   # role. If there are questions, please contact one of the chairs.
 collaborators:
   # Chairs and Admin Help
-  - username: 
+  - username: MarcinHoppe
+    permission: admin
+  - username: RedHatCRob
+    permission: admin
+  - username: mdressman
     permission: admin
 
     # Contributors
     # all permissions except admin
 
-  - username: 
+  - username: caniszczyk
+    permission: push
+  - username: infin8x
+    permission: push
+  - username: esarafianou
     permission: push
 
 labels:
@@ -33,6 +41,5 @@ labels:
     color: ff8c00
   - name: meeting
     color: 00ff00
-
 # additional colors in this palette:
 # 7f0000 , 1e90ff, ffdab9, ff69b4

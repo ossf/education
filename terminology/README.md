@@ -1,1 +1,3 @@
-The OpenSSF's Education SIG understands the importance of terms and definitions in providing clear and accurate communications and educational materials.  To that end, we are curating  a glossary/leixcon/dictionary of words and their definiations that are important within the world of open source and within the OpenSSF.
+<!-- markdownlint-disable MD041 -->
+
+The OpenSSF's Education SIG understands the importance of terms and definitions in providing clear and accurate communications and educational materials. To that end, we are curating a glossary/leixcon/dictionary of words and their definiations that are important within the world of open source and within the OpenSSF.
