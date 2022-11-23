@@ -1,0 +1,22 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "OpenSSF Repository for the Best Practices for OSS Developers WG's Education SIG",
+  "scripts": {
+    "format": "npx prettier --write . && npx markdownlint --fix '**/*.md' --ignore node_modules --config .github/linters/.markdown-lint.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossf/education.git"
+  },
+  "author": "",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ossf/education/issues"
+  },
+  "homepage": "https://github.com/ossf/education#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.32.2",
+    "prettier": "^2.7.1"
+  }
+}

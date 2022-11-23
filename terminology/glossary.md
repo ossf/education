@@ -1,0 +1,34 @@
+# Glossary
+
+- BBP
+- bug bar
+- CERT
+- CSIRT
+- CNA
+- CVD
+- CVE
+- CVSS
+- CWE
+- disclosure policy
+- finder
+- GHSA ID
+- GSD
+- legal safe harbor
+- maintainer
+- MITRE
+- MPCVD - Multi-Party CVD
+- NDA
+- NIST
+- NVD
+- open source software (OSS)
+- OSV ID
+- OpenSSF
+- POC
+- PSIRT
+- security policy
+- SIRT
+- Seclist
+- TLP marker
+- VDP
+- VMT
+- vulnerability disclosure
