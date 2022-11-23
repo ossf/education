@@ -1,24 +1,24 @@
 # Technical Charter for Open Source Security Foundation
 
-[COMMUNITY NAME - Working Group | Technical Initiative]
+[Education SIG]
 
 Adopted [DATE]
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [COMMUNITY NAME] open source community, which has been established as a [Working Group | Technical Initiative] (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”). All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [COMMUNITY NAME] open source community, which has been established as a Special Interest Group (SIG) (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”). All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
 
 ## 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to [MISSION STATEMENT].
+- a. The mission of the Technical Initiative is to provide access to open and widely available education materials to all learners and those materials will be maximally accessible and easy to consume for all learner.
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 
 ## 2. Technical Steering Committee
 
-- a. The Technical Steering Committee (the "TSC") will be responsible for all oversight of the Technical Initiative.
+- a. The Developer Best Practices Working Group (WG) will be responsible for all oversight of the Technical Initiative.
 
-- b. The TSC voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The TSC is responsible for determining the future process for defining voting members of the TSC, and any such alternative approach will also be documented appropriately. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+- b. The WG voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The WG is responsible for determining the future process for defining voting members of the WG, and any such alternative approach will also be documented appropriately. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-- c. The Technical Initiative generally will involve Collaborators and Contributors. The TSC may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented:
+- c. The Technical Initiative generally will involve Collaborators and Contributors. The WG may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented:
 
   - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative;
 
@@ -52,23 +52,23 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
   - viii. coordinating any communications regarding the Technical Initiative.
 
-## 3. TSC Voting
+## 3. WG Voting
 
-- a. While the Technical Initiative aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Technical Initiative forward, the voting members of the TSC will vote on a one vote per voting member basis.
+- a. While the Technical Initiative aims to operate as a consensus-based community, if any WG decision requires a vote to move the Technical Initiative forward, the voting members of the WG will vote on a one vote per voting member basis.
 
-- b. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
+- b. Quorum for WG meetings requires at least fifty percent of all voting members of the WG to be present. The WG may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the WG.
 
-- d. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the TAC for assistance in reaching a resolution.
+- d. In the event a vote cannot be resolved by the WG, any voting member of the WG may refer the matter to the TAC for assistance in reaching a resolution.
 
 ## 4. Compliance with Policies
 
 - a. This Technical Charter is subject to the OpenSSF Charter and any rules or policies established for all Technical Initiatives.
 
-- b. The Technical Initiative participants must conduct their business in a professional manner, subject to the Contributor Covenant Code of Conduct 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). The TSC may adopt a different code of conduct ("CoC") for the Technical Initiative, subject to approval by the TAC.
+- b. The Technical Initiative participants must conduct their business in a professional manner, subject to the Contributor Covenant Code of Conduct 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). The WG may adopt a different code of conduct ("CoC") for the Technical Initiative, subject to approval by the TAC.
 
-- c. All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Technical Charter and any policies adopted for all Collaborators by the TSC, regardless of competitive interests. Put another way, the Technical Initiative community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Technical Initiative community. All activities conducted in the Technical Initiative are subject to the Linux Foundation’s Antitrust Policy, available at [https://www.linuxfoundation.org/antitrust-policy](https://www.linuxfoundation.org/antitrust-policy/).
+- c. All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Technical Charter and any policies adopted for all Collaborators by the WG, regardless of competitive interests. Put another way, the Technical Initiative community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Technical Initiative community. All activities conducted in the Technical Initiative are subject to the Linux Foundation’s Antitrust Policy, available at [https://www.linuxfoundation.org/antitrust-policy](https://www.linuxfoundation.org/antitrust-policy/).
 
 - d. The Technical Initiative will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Technical Initiative discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the TAC.
 
@@ -88,7 +88,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
   - i. All new inbound code contributions to the Technical Initiative must be made using the Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (the "Technical Initiative License").
 
-  - ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin ([http://developercertificate.org](http://developercertificate.org)) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+  - ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin ([http://developercertificate.org](http://developercertificate.org)) sign-off in the source code system that is submitted through a WG-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 
   - iii. All outbound code will be made available under the Technical Initiative License.
 
@@ -104,4 +104,4 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 ## 7. Amendments
 
-- a. This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by the TAC.
+- a. This charter may be amended by a two-thirds vote of the entire WG and is subject to approval by the TAC.
