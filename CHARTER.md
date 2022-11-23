@@ -1,6 +1,6 @@
 # Technical Charter for Open Source Security Foundation
 
-[Education SIG]
+# Education SIG
 
 Adopted [DATE]
 
