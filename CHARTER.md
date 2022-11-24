@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD025 -->
+
 # Technical Charter for Open Source Security Foundation
 
 # Education SIG
