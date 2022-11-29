@@ -10,6 +10,8 @@ The OpenSSF proposes the following multi-pronged approach to addressing this iss
 
 Training and education must be tailored to different levels, backgrounds, and career paths for learners to maximize the effectiveness and reach of these materials.  It is also important to ensure this education is available to any community or group that desires it, and that students that have applied themselves and learned these new skills also have means to showcase this and gain recognition for their achievements.  Learners should have methods to receive credentials, awards, and means to further their careers and highlight to prospective employers that they have demonstrated their expertise in secure development and open source security techniques.
 
+The OpenSSF's Education SIG (EDU.SIG) proposes the following plan to address these education and trianing needs.  The plan will be achieved through combinations of expert volunteers, OpenSSF member-donated content, and strategically hiring indidivuals to be dedicated in helping drive the plan forward and ensure proper alignment and engagement with our desired target communities around the globe.  As noted above, the plan is written in three parts to organize the work into thre focused, yet inter-related, sections:
+
 ## The Proposed Plan
 
 - [1.0 Collect & Curate Content](https://github.com/ossf/education/blob/main/plan/1.0%20Collect%20and%20Curate%20Content.md)
