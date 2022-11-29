@@ -8,10 +8,11 @@ The OpenSSF proposes the following multi-pronged approach to addressing this iss
 
 <img align="right" src="https://github.com/ossf/education/blob/main/plan/edu-sig-3%20legged%20stool.png">
 
+Training and education must be tailored to different levels, backgrounds, and career paths for learners to maximize the effectiveness and reach of these materials.  It is also important to ensure this education is available to any community or group that desires it, and that students that have applied themselves and learned these new skills also have means to showcase this and gain recognition for their achievements.  Learners should have methods to receive credentials, awards, and means to further their careers and highlight to prospective employers that they have demonstrated their expertise in secure development and open source security techniques.
 
 ## The Proposed Plan
 
 - [1.0 Collect & Curate Content](https://github.com/ossf/education/blob/main/plan/1.0%20Collect%20and%20Curate%20Content.md)
 - [2.0 Expand Training](https://github.com/ossf/education/blob/main/plan/2.0%20Expand%20Training.md)
 - [3.0 Reward and Incentivize Developers and Maintainers](https://github.com/ossf/education/blob/main/plan/3.0%20Reward%20and%20Incentivize%20Developers%20and%20Maintainers.md)
-- Proposal [Summary](https://github.com/ossf/education/blob/main/plan/proposal_summary.md)
+- [Proposal Summary](https://github.com/ossf/education/blob/main/plan/proposal_summary.md)
