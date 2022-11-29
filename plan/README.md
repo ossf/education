@@ -2,9 +2,12 @@
 
 ## The Problem
 
-Historically, little attention is paid in traditional software engineering coursework that high-lights and teaches the importance of good cyber security hygiene and secure coding tech-niques. Complicating the lack of trained developers is the ever-growing shortage of trained cyber security professionals that can assist developers as they create, test, and release their code.
+Historically, little attention is paid in traditional software engineering coursework that highlights and teaches the importance of good cyber security hygiene and secure coding tech-niques. Complicating the lack of trained developers is the ever-growing shortage of trained cyber security professionals that can assist developers as they create, test, and release their code.  In recent years many [reports](https://www.isc2.org/Research/Workforce-Study) and [efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/18/announcement-of-white-house-national-cyber-workforce-and-education-summit/) have showcased the importance of not only upskilling existing practictioners, but also to developing a new generation of engineers that will help ensure good development and cyber-hygeine practices are the norm within the industry.
 
-The OpenSSF proposes the following multi-pronged approach to addressing this issue: collect and curate content; expand training; and reward and incentivize developers.
+The OpenSSF proposes the following multi-pronged approach to addressing this issue: collect and curate content; expand training; and reward and incentivize developers. As existing content is collected, reviewed, and new content created the OpenSSF will distribute these materials through three main channels, each focused on different styles and methods of learning:
+
+<img align="right" src="https://github.com/ossf/education/blob/main/plan/edu-sig-3%20legged%20stool.png">
+
 
 ## The Proposed Plan
 
