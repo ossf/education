@@ -62,7 +62,8 @@ For deatils of what the SIG will be delivering can be found in the revise [plan]
 ## Meeting times
 
 - Every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [Meeting Minutes](https://docs.google.com/document/d/1Lt8uGpiMFfgws8VF36xtTMaJAeHufha-7Dqz1tjrPGY/)
+- [2023 Meeting Minutes](https://docs.google.com/document/d/18GBwvQJNcPnwxKrnp43DhBZC7K1JM0xzGkDoKh5mu8U/edit#heading=h.9m0zi4b0wnne)
+- [2022 Meeting Minutes](https://docs.google.com/document/d/1Lt8uGpiMFfgws8VF36xtTMaJAeHufha-7Dqz1tjrPGY/edit#heading=h.naeeah7jeanr)
 
 ## Governance
 
