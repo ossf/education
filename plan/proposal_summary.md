@@ -2,7 +2,7 @@
 
 Goal Target to Start Resource Requirements Funding Requirements
 
-## 1. Collect and Curate Content
+## 1. [Collect and Curate Content](https://github.com/ossf/education/blob/main/plan/1.0%20Collect%20and%20Curate%20Content.md)
 
 ### Time & Resource Estimate
 
@@ -29,7 +29,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 > - Estimated Total Combined Volunteer Hours: 8+
 > - Estimated # FTEs/other Expenses:  
 
-## 2. Expand Training
+## 2. [Expand Training](https://github.com/ossf/education/blob/main/plan/2.0%20Expand%20Training.md)
 
 ### Time & Resource Estimate
 
@@ -53,7 +53,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 > - Estimated Total Combined Volunteer Hours:
 > - Estimated # FTEs/other Expenses:
 
-## 3. Reward and Incentive Developers & Maintainers
+## 3. [Reward and Incentive Developers & Maintainers](https://github.com/ossf/education/blob/main/plan/3.0%20Reward%20and%20Incentivize%20Developers%20and%20Maintainers.md)
 
 ### Time & Resource Estimate
 
