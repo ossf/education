@@ -39,6 +39,10 @@ Work in Progress
 - Assisting with technical issues related to the educational materials
 
 For deatils of what the SIG will be delivering can be found in the revise [plan](https://github.com/ossf/education/tree/main/plan)
+## Current Work
+The SIG currently has two initiatives it is caretaking at this time:
+- [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
+- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions asnd how they are used across the OpenSSF
 
 ## Prior Work
 
@@ -55,14 +59,16 @@ For deatils of what the SIG will be delivering can be found in the revise [plan]
 ### Quick Start
 
 - Areas that need contributions
-- Build information if applicable
+-  [ ] Review of the Proposed Education Plan
+-  [ ] Review of terms/definitions in the Glossary
 - Where to file issues - <https://github.com/ossf/education/issues>
-- Etc.
+
 
 ## Meeting times
 
 - Every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [Meeting Minutes](https://docs.google.com/document/d/1Lt8uGpiMFfgws8VF36xtTMaJAeHufha-7Dqz1tjrPGY/)
+- [2023 Meeting Minutes](https://docs.google.com/document/d/18GBwvQJNcPnwxKrnp43DhBZC7K1JM0xzGkDoKh5mu8U/edit#heading=h.9m0zi4b0wnne)
+- [2022 Meeting Minutes](https://docs.google.com/document/d/1Lt8uGpiMFfgws8VF36xtTMaJAeHufha-7Dqz1tjrPGY/edit#heading=h.naeeah7jeanr)
 
 ## Governance
 

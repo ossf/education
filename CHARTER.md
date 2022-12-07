@@ -4,13 +4,13 @@
 
 # Education SIG
 
-Adopted [DATE]
+Adopted 7December2022 by SIG vote
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [COMMUNITY NAME] open source community, which has been established as a Special Interest Group (SIG) (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”). All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Education SIG (EDU.SIG) open source community, which has been established as a Special Interest Group (SIG) (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”). All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
 
 ## 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to provide access to open and widely available education materials to all learners and those materials will be maximally accessible and easy to consume for all learner.
+- a. The mission of the Technical Initiative is to provide access to open and widely available education materials to all learners and those materials will be maximally accessible and easy to consume for all learners.
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 
