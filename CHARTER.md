@@ -10,7 +10,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 ## 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to provide access to open and widely available education materials to all learners and those materials will be maximally accessible and easy to consume for all learner.
+- a. The mission of the Technical Initiative is to provide access to open and widely available education materials to all learners and those materials will be maximally accessible and easy to consume for all learners.
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 
