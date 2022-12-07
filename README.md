@@ -42,7 +42,7 @@ For deatils of what the SIG will be delivering can be found in the revise [plan]
 ## Current Work
 The SIG currently has two initiatives it is caretaking at this time:
 - [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
-- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions asnd how they are used acros the OpenSSF
+- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions asnd how they are used across the OpenSSF
 
 ## Prior Work
 
@@ -59,9 +59,10 @@ The SIG currently has two initiatives it is caretaking at this time:
 ### Quick Start
 
 - Areas that need contributions
-- Build information if applicable
+-  [ ] Review of the Proposed Education Plan
+-  [ ] Review of terms/definitions in the Glossary
 - Where to file issues - <https://github.com/ossf/education/issues>
-- Etc.
+
 
 ## Meeting times
 
