@@ -5,7 +5,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 ## 1. [Collect and Curate Content](https://github.com/ossf/education/blob/main/plan/1.0%20Collect%20and%20Curate%20Content.md)
 
 ### Time & Resource Estimate
-
+#### YEAR 1
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G1.1      |         10           |        232-248        |   EDU PgM-$300k annual  | ➡️ Y1 |
@@ -16,6 +16,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 | G1.6      |         >5           |          144          |           xx            | ➡️ Y1 |
 | G1.7      |      >4 + LF EDU     |       176 + LF EDU    |           xx            | ➡️ Y1 |
 
+#### YEAR 2
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G1.5      |           2          |          8+           |           xx            | ➡️ Y2 |
@@ -46,14 +47,13 @@ Goal Target to Start Resource Requirements Funding Requirements
 | G2.9      |      8 SKF OPS       |      348 SKF OPS      |           xxx           | ➡️ Y1 |
 | G2.10     |      4 SKF OPS       |      12 SKF OPS       |           xxx           | ➡️ Y1 |
 
-
 #### YEAR 2
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G2.3      |      8 SKF OPS       |         4570          |           xxx           | ➡️ Y2 |
 | G2.4      |      8 SKF OPS       |         1312          |           xxx           | ➡️ Y2 |
 | G2.11     |      8 SKF OPS       |         TBD           |           TBD           | ➡️ Y2 |
-|
+
 #### YEAR 1
 > - Estimated # Resources: 8 SKF OPS + 5 Volunters + OSSF Staff
 > - Estimated Total Combined Volunteer Hours: 6,802-6,818 SKF OPS + 808-854 Volunteer + 104 OSSF Staff
@@ -66,7 +66,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 ## 3. [Reward and Incentive Developers & Maintainers](https://github.com/ossf/education/blob/main/plan/3.0%20Reward%20and%20Incentivize%20Developers%20and%20Maintainers.md)
 
 ### Time & Resource Estimate
-
+#### YEAR 1
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G3.1      |         >4           |          72           |           xxx           | ➡️ Y1 |
@@ -81,7 +81,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 | G3.13     |         5            |          100          |           xxx           | ➡️ Y1 |
 | G3.14     |         2            |          40           |           xxx           | ➡️ Y1 |
 
-
+#### YEAR 2
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G3.3      |         2            |          80           |           xxx           | ➡️ Y2 |
