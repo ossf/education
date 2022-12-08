@@ -57,7 +57,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 #### YEAR 1
 > - Estimated # Resources: 8 SKF OPS + 5 Volunters + OSSF Staff
 > - Estimated Total Combined Volunteer Hours: 6,802-6,818 SKF OPS + 808-854 Volunteer + 104 OSSF Staff
-> - Estimated # FTEs/other Expenses: 1 DEducastion Content Developer $300,000 annual + $65,000 SKF Infrastructure + $35,000 podcast production = $300,000 annually + $100,000 1st year infra/equip
+> - Estimated # FTEs/other Expenses: 1 Education Content Developer $300,000 annual + $65,000 SKF Infrastructure + $35,000 podcast production = $300,000 annually + $100,000 1st year infra/equip
 
 #### YEAR 2
 > - Estimated # Resources: 8 SKF OPS 
@@ -107,10 +107,18 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 ## TOTAL
 
-> - Estimated # Volunteers: 
-> - Estimated Total Combined Volunteer Hours:
-> - Estimated # FTEs/other Expenses:
+> - Estimated # Resources: Y1 12+ Volunteers + 8 SKF OPS + OSSF Staff
+> - Estimated # Resources: Y2 8+ Volunteers + 8 SKF OPS + OSSF Staff
+> - Estimated Total Combined Hours: Y1 3,113- 3,159 Volunteer + 6,802-6,818 SKF OPS + 104 OSSF Staff
+> - Estimated Total Combined Hours: Y2 1,520-1574 Volunteer + 5,882 SKF OPS + TDB OSSF Staff
+> - Estimated # FTEs/other Expenses:Y1 1 EDU Program Manager + 1 OER Librarian @ $300k each annual, $600,000 YEAR1 + 1 Education Content Developer $300,000 annual + $65,000 SKF Infrastructure + $35,000 podcast production = $300,000 annually + $100,000 1st year infra/equip + $250,000 for developer incentives
+> - 3 FTEs - $900,000
+> - Infra/equip - $100,000
+> - Developer Incentives - $250,000 
 
+> - Estimated # FTEs/other Expenses:Y2 - 3 Specialty Program Managers $300,000 annually + $1,230,000 for rewards & funded report
+> - 3 FTEs - $900,000
+> - Developer Incentives + report - $1,230,000
 ---
 
 Footnotes:
