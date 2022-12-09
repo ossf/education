@@ -42,8 +42,8 @@ Goal Target to Start Resource Requirements Funding Requirements
 | G2.4      |      8 SKF OPS       |      920 SKF OPS      |           xxx           | ➡️ Y1 |
 | G2.5      |      8 SKF OPS       |      480 SKF OPS      |           xxx           | ➡️ Y1 |
 | G2.6      |      8 SKF OPS       |      160 SKF OPS      |           xxx           | ➡️ Y1 |
-| G2.7      |      5 + OSSF Staff  | 656-674 + 80 OSSF Staff | 1 FTE-Edu Content Dev $300k annual + $35k equip | ➡️ Y1 |
-| G2.8      |      5 + OSSF Staff  | 152-180 + 24 OSSF Staff |         xxx           | ➡️ Y1 |
+| G2.7      |      5 + OSSF Staff  | 674 + 80 OSSF Staff   | 1 FTE-Edu Content Dev $300k annual + $35k equip | ➡️ Y1 |
+| G2.8      |      5 + OSSF Staff  | 440 + 24 OSSF Staff   |         xxx             | ➡️ Y1 |
 | G2.9      |      8 SKF OPS       |      348 SKF OPS      |           xxx           | ➡️ Y1 |
 | G2.10     |      4 SKF OPS       |      12 SKF OPS       |           xxx           | ➡️ Y1 |
 
@@ -56,7 +56,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 #### YEAR 1
 > - Estimated # Resources: 8 SKF OPS + 5 Volunters + OSSF Staff
-> - Estimated Total Combined Volunteer Hours: 6,802-6,818 SKF OPS + 808-854 Volunteer + 104 OSSF Staff
+> - Estimated Total Combined Volunteer Hours: 6,802-6,818 SKF OPS + 1,114 Volunteer + 104 OSSF Staff
 > - Estimated # FTEs/other Expenses: 1 Education Content Developer $300,000 annual + $65,000 SKF Infrastructure + $35,000 podcast production = $300,000 annually + $100,000 1st year infra/equip
 
 #### YEAR 2
