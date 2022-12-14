@@ -55,7 +55,9 @@ The SIG currently has two initiatives it is caretaking at this time:
   [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 - [Mobilization Stream 1 Slack](https://openssf.slack.com/archives/C03B9AP95LG)
 - [Developer Best Practices WG Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
-
+- [Education SIG Diversity & Inclusion Sub-committee Slack](https://openssf.slack.com/archives/C04FMD5HSC9)
+- [Education SIG Diversity & Inclusion Sub-committee Mailing List](https://lists.openssf.org/g/openssf-sig-education-dei)
+- 
 ### Quick Start
 
 - Areas that need contributions
