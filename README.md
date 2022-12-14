@@ -19,7 +19,9 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 
 ## Scope
 
-Work in Progress
+- Currently the SIG is focsued on finalizing the [EDU.SIG Plan rewrite](https://github.com/ossf/education/tree/main/plan).  Comments, feedback and PRs [welcome](https://github.com/ossf/education/issues/64)!
+- We've recently started to assemble a DEI subcommitte to focus on moving forward our desire to provide education and training to learners of all levels and backgrounds, especially for historically underserved and underrepresented communities within the open source ecosystem.  You can particpate and learn more on our [EDU.SIG Slack Channel](https://openssf.slack.com/archives/C04FMD5HSC9)
+- We have an open call for cybersecurity and open source development content.  Please contact us through our lists, slack, or github repo if you are interested in contributing and collaborating with us!
 
 ### What is in Scope
 
