@@ -40,11 +40,12 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 - Providing personal guidance or feedback to individuals or groups using the educational materials
 - Assisting with technical issues related to the educational materials
 
-For deatils of what the SIG will be delivering can be found in the revise [plan](https://github.com/ossf/education/tree/main/plan)
+Details of what the SIG will be delivering can be found in the [revise plan](https://github.com/ossf/education/tree/main/plan)
+
 ## Current Work
 The SIG currently has two initiatives it is caretaking at this time:
 - [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
-- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions asnd how they are used across the OpenSSF
+- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions and how they are used across the OpenSSF
 
 ## Prior Work
 
