@@ -71,9 +71,12 @@ The SIG currently has two initiatives it is caretaking at this time:
 
 ## Meeting times
 
-- Every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+- The Full SIG meets every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 - [2023 Meeting Minutes](https://docs.google.com/document/d/18GBwvQJNcPnwxKrnp43DhBZC7K1JM0xzGkDoKh5mu8U/edit#heading=h.9m0zi4b0wnne)
 - [2022 Meeting Minutes](https://docs.google.com/document/d/1Lt8uGpiMFfgws8VF36xtTMaJAeHufha-7Dqz1tjrPGY/edit#heading=h.naeeah7jeanr)
+
+- The Diversity, Equality, and Inclusion (DEI) subcommittee meets every other Tuesday @ 11am EST.  The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+- [DEI Subcommittee Meeting Notes](https://docs.google.com/document/d/1LdQ07veOcJ596Vo3aQZCFy-HHeEO7cHnbE_6u_uq9Fk/edit#)
 
 ## Governance
 
