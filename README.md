@@ -15,7 +15,7 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 
 - Collecting & Curating Content
 - Expanding Training
-- Rewarding & incentiving Developers
+- Rewarding & incentizing Developers
 
 ## Scope
 
