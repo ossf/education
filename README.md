@@ -44,9 +44,19 @@ Deliver Baseline Secure Software Development Education and Certification to All 
 Details of what the SIG will be delivering can be found in the [revise plan](https://github.com/ossf/education/tree/main/plan)
 
 ## Current Work
-The SIG currently has two initiatives it is caretaking at this time:
+The SIG currently has two overall initiatives it is caretaking at this time:
 - [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
-- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions and how they are used across the OpenSSF
+- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions and how they are used across the OpenSSF. We expect these migrate to the [OpenSSF Glossary](https://glossary.openssf.org/)
+
+## Currently-available Courses
+
+See [OpenSSF Education/Training](https://openssf.org/training/) for
+the list of courses developed by the OpenSSF. The EDU SIG developed and
+maintains many of them:
+
+* Developing Secure Software (LFD121) - [course](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/), [GitHub repo](https://github.com/ossf/secure-sw-dev-fundamentals), [more info](https://openssf.org/training/courses/), [brief intro (short presentation)](https://docs.google.com/presentation/d/12b7Wm6KRp9kd1oV3QVrJpiCWVDexxF8doYZOFOfLy2Y/edit)
+* Security for Software Development Managers (LFD125) - [course](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/), [slides as Google doc](https://docs.google.com/presentation/d/19lolYrumwUa7qHV65OW0IJ-oTpLV0l2KqEVGzjf0FSI/edit)
+* Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) - [course](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/), [slides as Google doc](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p)
 
 ## Prior Work
 
