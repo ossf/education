@@ -1,7 +1,10 @@
 # **OpenSSF Education Special Interest Group (SIG)**
+
 <img align="right" src="https://github.com/ossf/education/blob/main/ossf-goose-edu-sig2.png" width="400" height="400">
 
-This Education SIG is a group working within the [OpenSSF's Best Practices Working Group](https://github.com/ossf/wg-best-practices-os-developers) formed to advance and deliver upon [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8). This SIG is dedicated to providing industry standard secure software development training materials that will educate learners of all levels and backgrounds on how to create, compose, deploy, and maintain software securely using best practices in cyber and application security.
+This Education SIG is a group working within the [OpenSSF's Best Practices Working Group](https://github.com/ossf/wg-best-practices-os-developers).
+
+This SIG is dedicated to providing industry standard secure software development training materials that will educate learners of all levels and backgrounds on how to create, compose, deploy, and maintain software securely using best practices in cyber and application security.
 
 ## Motivation
 
@@ -9,127 +12,112 @@ Historically, little attention is paid in traditional software engineering cours
 
 ## Objective
 
-- Provide access to open and widely available education materials to all learners
-- Materials will be maximally accessible and easy to consume for all learners
+* Provide access to open and widely available education materials to all learners
+* Materials will be maximally accessible and easy to consume for all learners
 
 Deliver Baseline Secure Software Development Education and Certification to All by:
 
-- Collecting & Curating Content
-- Expanding Training
-- Rewarding & incentizing Developers
+* Collecting & Curating Content
+* Expanding Training
+* Rewarding & incentizing Developers
 
 ## Scope
 
-- Currently the SIG is focsued on finalizing the [EDU.SIG Plan rewrite](https://github.com/ossf/education/tree/main/plan).  Comments, feedback and PRs [welcome](https://github.com/ossf/education/issues/64)!
-- We've recently started to assemble a DEI subcommittee to focus on moving forward our desire to provide education and training to learners of all levels and backgrounds, especially for historically underserved and underrepresented communities within the open source ecosystem.  You can particpate and learn more on our [EDU.SIG DEI Slack Channel](https://openssf.slack.com/archives/C04FMD5HSC9)
-- We have an open call for cybersecurity and open source development content.  Please contact us through our lists, slack, or github repo if you are interested in contributing and collaborating with us!
+* We have an open call for cybersecurity and open source development content.  Please contact us through our lists, slack, or github repo if you are interested in contributing and collaborating with us!
 
 ### What is in Scope
 
 [What is in and out of scope]
 
-- Training and education around secure software development, management, deployment, distribution and data access controls
-- Incentivize learning and hiring of certified practictioners
-- Provide platform(s) for showcasing certifications for learners
-- Collaboration with educators
-- Improve existing security education and OSS project security with our educational material
+* Training and education around secure software development, management, deployment, distribution and data access controls
+* Incentivize learning and hiring of certified practictioners
+* Provide platform(s) for showcasing certifications for learners
+* Collaboration with educators
+* Improve existing security education and OSS project security with our educational material
 
 ### What is out of Scope
 
-- Reporting of unknown security vulnerabilities in open source projects or taking action to remediate vulnerabilities.
-- Helping projects or individual enterprises with remediating their own security exposures from another open-source project’s security vulnerabilities
-- Providing personal guidance or feedback to individuals or groups using the educational materials
-- Assisting with technical issues related to the educational materials
+* Reporting of unknown security vulnerabilities in open source projects or taking action to remediate vulnerabilities.
+* Helping projects or individual enterprises with remediating their own security exposures from another open-source project’s security vulnerabilities
+* Providing personal guidance or feedback to individuals or groups using the educational materials
+* Assisting with technical issues related to the educational materials
 
 Details of what the SIG will be delivering can be found in the [revise plan](https://github.com/ossf/education/tree/main/plan)
-
-## Current Work
-The SIG currently has two overall initiatives it is caretaking at this time:
-- [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
-- The [Glossary](https://github.com/ossf/education/tree/main/terminology) that contains terms and definitions and how they are used across the OpenSSF. We expect these migrate to the [OpenSSF Glossary](https://glossary.openssf.org/)
 
 ## Currently-available Courses
 
 See [OpenSSF Education/Training](https://openssf.org/training/) for
-the list of courses developed by the OpenSSF. The EDU SIG developed and
+the list of courses developed by the OpenSSF. The EDU SIG (co-)developed and
 maintains many of them:
 
 * Developing Secure Software (LFD121) - [course](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/), [GitHub repo](https://github.com/ossf/secure-sw-dev-fundamentals), [more info](https://openssf.org/training/courses/), [brief intro (short presentation)](https://docs.google.com/presentation/d/12b7Wm6KRp9kd1oV3QVrJpiCWVDexxF8doYZOFOfLy2Y/edit)
 * Security for Software Development Managers (LFD125) - [course](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/), [slides as Google doc](https://docs.google.com/presentation/d/19lolYrumwUa7qHV65OW0IJ-oTpLV0l2KqEVGzjf0FSI/edit)
 * Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) - [course](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/), [slides as Google doc](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p)
 
+## Current Work
+
+In addition to maintaining existing courses, the SIG is involved in other efforts:
+
+* See our [issues list](https://github.com/ossf/education/issues) for specific issues
+* The [Glossary](https://github.com/ossf/education/tree/main/terminology) contains terms and definitions; we expect these to migrate to the [OpenSSF Glossary](https://glossary.openssf.org/)
+
 ## Prior Work
 
-- [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
-- [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
+* [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
+* [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
+* [EDU.SIG Plan rewrite](https://github.com/ossf/education/tree/main/plan)
+* [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
 
 ## Get Involved
 
-- Official communications occur on the [openssf-sig-education@lists.openssf.org](https://lists.openssf.org/g/openssf-sig-education). \
+* Official communications occur on the [openssf-sig-education@lists.openssf.org](https://lists.openssf.org/g/openssf-sig-education). \
   [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-- [Mobilization Stream 1 Slack](https://openssf.slack.com/archives/C03B9AP95LG)
-- [Developer Best Practices WG Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
-- [Education SIG Diversity & Inclusion Sub-committee Slack](https://openssf.slack.com/archives/C04FMD5HSC9)
-- [Education SIG Diversity & Inclusion Sub-committee Mailing List](https://lists.openssf.org/g/openssf-sig-education-dei)
-- 
+* [Mobilization Stream 1 Slack](https://openssf.slack.com/archives/C03B9AP95LG)
+* [Developer Best Practices WG Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
+
 ### Quick Start
 
-- Areas that need contributions
--  [ ] Review of the Proposed Education Plan
--  [ ] Review of terms/definitions in the Glossary
-- Where to file issues - <https://github.com/ossf/education/issues>
-
+* Areas that need contributions
+* [ ] Review of the Proposed Education Plan
+* [ ] Review of terms/definitions in the Glossary
+* Where to file issues - <https://github.com/ossf/education/issues>
 
 ## Meeting times
 
-- The Full SIG meets every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [2024 Meeting Minutes](https://docs.google.com/document/d/1NPk5HZLfSMLpUsqaqVcbUSmSR66gS8WoJmEqfsCwrrE)
-
-- [2023 Meeting Minutes](https://docs.google.com/document/d/18lIznkQyrcD_KI-7bKhWJQ5bjwdHpdzelA9kPTF1Gow/edit)
-
-- [2022 Meeting Minutes](https://docs.google.com/document/d/1wuly4bt7zSv4WYsbsr3AlNdq6QOMPCAAt2jtr0PtfQM/edit)
-
-- The Diversity, Equality, and Inclusion (DEI) subcommittee meets every other Tuesday @ 11am EST.  The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [DEI Subcommittee Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit?usp=sharing)
-- [2022 Meeting Minutes](https://docs.google.com/document/d/1wuly4bt7zSv4WYsbsr3AlNdq6QOMPCAAt2jtr0PtfQM/edit?usp=sharing)
-
-- The Diversity, Equality, and Inclusion (DEI) subcommittee meets every other Tuesday @ 11am EST.  The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [DEI Subcommittee Meeting Notes](https://docs.google.com/document/d/1Ba_NJWWlsbTn2kVoBFpnMFMmdez9yJrHayocaxKkjaY/edit#heading=h.9m0zi4b0wnne)
+* The Full SIG meets every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+* [2025 Meeting Minutes](https://docs.google.com/document/d/1th8joOtmQa3y9KNlH-QBcYADMEHtCynSYwRR1r_WB6Q/edit)
+* [2024 Meeting Minutes](https://docs.google.com/document/d/1NPk5HZLfSMLpUsqaqVcbUSmSR66gS8WoJmEqfsCwrrE)
+* [2023 Meeting Minutes](https://docs.google.com/document/d/18lIznkQyrcD_KI-7bKhWJQ5bjwdHpdzelA9kPTF1Gow/edit)
+* [2022 Meeting Minutes](https://docs.google.com/document/d/1wuly4bt7zSv4WYsbsr3AlNdq6QOMPCAAt2jtr0PtfQM/edit)
 
 ## Governance
 
 The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
-- Lead name: [CRob](https://github.com/SecurityCRob)
-- Co-Lead name: [Dave Russo](https://github.com/drusso-rh)
+* Lead name: [CRob](https://github.com/SecurityCRob)
+* Co-Lead name: [Dave Russo](https://github.com/drusso-rh)
 
 ## SIG Maintainers
 
-- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
-- [Dave Russo, Red Hat](https://github.com/drusso-rh)
-- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
-- [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
-- [Glenn ten Cate, SKF](https://github.com/blabla1337)
-- [Judy Kelly, Red Hat](https://github.com/judyobrienie)
-- [Sal Kimmich, Sonatype](https://github.com/)
-- [VM (Vicky) Brasseur, Wipro](https://github.com/vmbrasseur)
+* [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
+* [Dave Russo, Red Hat](https://github.com/drusso-rh)
+* [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
+* [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
+* [Glenn ten Cate, SKF](https://github.com/blabla1337)
+* [Judy Kelly, Red Hat](https://github.com/judyobrienie)
+* [Sal Kimmich, Sonatype](https://github.com/)
+* [VM (Vicky) Brasseur, Wipro](https://github.com/vmbrasseur)
 
 ## SIG Collaborators
 
-- [Avishay Balter, Microsoft](https://github.com/balteravishay)
-- [Brian Fox, Sonatype, OSSF GB](https://github.com/)
-- [Christine Abernathy, F5](https://github.com/caabernathy)
-- [Dan Appelquist, Snyk](https://github.com/Torgo)
-- [Eric Tice, Wipro](https://github.com/erictice)
-- [Georg Kunz, Ericsson](https://github.com/gkunz)
-- [Marta Rybczynska, OSTC](https://github.com/)
-- [Matt Rutkowski, IBM](https://github.com/)
-- [Randall T. Vasquez, Gentoo/Homebrew](https://github.com/ran-dall)
-- [Riccardo ten Cate, SKF](https://github.com/)
-- [Sebastian Crane, SPDX](https://github.com/)
-
-## DEI Sub-Committee
-
-- Co-Lead [Christine Abernathy, F5](https://github.com/caabernathy)
-- Co-Lead [Jay White, Microsoft](https://github.com/camaleon2016)
-
+* [Avishay Balter, Microsoft](https://github.com/balteravishay)
+* [Brian Fox, Sonatype, OSSF GB](https://github.com/)
+* [Christine Abernathy, F5](https://github.com/caabernathy)
+* [Dan Appelquist, Snyk](https://github.com/Torgo)
+* [Eric Tice, Wipro](https://github.com/erictice)
+* [Georg Kunz, Ericsson](https://github.com/gkunz)
+* [Marta Rybczynska, OSTC](https://github.com/)
+* [Matt Rutkowski, IBM](https://github.com/)
+* [Randall T. Vasquez, Gentoo/Homebrew](https://github.com/ran-dall)
+* [Riccardo ten Cate, SKF](https://github.com/)
+* [Sebastian Crane, SPDX](https://github.com/)
