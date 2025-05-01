@@ -51,7 +51,7 @@ the list of courses developed by the OpenSSF. The EDU SIG (co-)developed and
 maintains many of them:
 
 * Developing Secure Software (LFD121) - [course](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/), [GitHub repo](https://github.com/ossf/secure-sw-dev-fundamentals), [more info](https://openssf.org/training/courses/), [brief intro (short presentation)](https://docs.google.com/presentation/d/12b7Wm6KRp9kd1oV3QVrJpiCWVDexxF8doYZOFOfLy2Y/edit)
-* Security for Software Development Managers (LFD125) - [course](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/), [slides as Google doc](https://docs.google.com/presentation/d/19lolYrumwUa7qHV65OW0IJ-oTpLV0l2KqEVGzjf0FSI/edit)
+* Security for Software Development Managers (LFD125) - [course](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/), [slides as Google doc](https://docs.google.com/presentation/d/19lolYrumwUa7qHV65OW0IJ-oTpLV0l2KqEVGzjf0FSI/edit). We thank Intel for contributing the starting material for this course.
 * Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) - [course](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/), [slides as Google doc](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit?slide=id.p)
 
 ## Current Work
