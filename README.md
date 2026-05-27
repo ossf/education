@@ -102,8 +102,8 @@ In addition to maintaining existing courses, the SIG is involved in other effort
 
 The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
-* Lead name: [CRob](https://github.com/SecurityCRob)
-* Co-Lead name: [Dave Russo](https://github.com/drusso-rh)
+* Co-Lead name: [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
+* Co-Lead name: [Justin Cappos](https://github.com/justincappos)
 
 ## SIG Maintainers
 
@@ -113,8 +113,8 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 * [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 * [Glenn ten Cate, SKF](https://github.com/blabla1337)
 * [Judy Kelly, Red Hat](https://github.com/judyobrienie)
+* [Justin Cappos](https://github.com/justincappos)
 * [Sal Kimmich, Sonatype](https://github.com/)
-* [VM (Vicky) Brasseur, Wipro](https://github.com/vmbrasseur)
 
 ## SIG Collaborators
 
