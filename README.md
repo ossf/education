@@ -65,6 +65,8 @@ maintains many of them:
 
 In addition to maintaining existing courses, the SIG is involved in other efforts:
 
+* Developing a guide *and* course on finding and fixing vulnerabilities using AI.
+  - [Current draft of literature review](https://docs.google.com/document/d/1Q3zQ30uEAegSGZr8mlgmrO92fm_BmdozwKbPVoD-Tos/edit)
 * See our [issues list](https://github.com/ossf/education/issues) for specific issues
 * The [Glossary](https://github.com/ossf/education/tree/main/terminology) contains terms and definitions; we expect these to migrate to the [OpenSSF Glossary](https://glossary.openssf.org/)
 
