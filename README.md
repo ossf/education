@@ -68,13 +68,6 @@ In addition to maintaining existing courses, the SIG is involved in other effort
 * See our [issues list](https://github.com/ossf/education/issues) for specific issues
 * The [Glossary](https://github.com/ossf/education/tree/main/terminology) contains terms and definitions; we expect these to migrate to the [OpenSSF Glossary](https://glossary.openssf.org/)
 
-## Prior Work
-
-* [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
-* [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
-* [EDU.SIG Plan rewrite](https://github.com/ossf/education/tree/main/plan)
-* [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
-
 ## Get Involved
 
 * Official communications occur on the [openssf-sig-education@lists.openssf.org](https://lists.openssf.org/g/openssf-sig-education). \
@@ -82,20 +75,24 @@ In addition to maintaining existing courses, the SIG is involved in other effort
 * [Mobilization Stream 1 Slack](https://openssf.slack.com/archives/C03B9AP95LG)
 * [Developer Best Practices WG Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
 
-### Quick Start
+### Issues
 
-* Areas that need contributions
-* [ ] Review of the Proposed Education Plan
-* [ ] Review of terms/definitions in the Glossary
 * Where to file issues - <https://github.com/ossf/education/issues>
 
 ## Meeting times
 
 * The Full SIG meets every other Wednesday @ 09:00am EST. The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-* [2025 Meeting Minutes](https://docs.google.com/document/d/1th8joOtmQa3y9KNlH-QBcYADMEHtCynSYwRR1r_WB6Q/edit)
+* [2025+ Meeting Minutes](https://docs.google.com/document/d/1th8joOtmQa3y9KNlH-QBcYADMEHtCynSYwRR1r_WB6Q/edit)
 * [2024 Meeting Minutes](https://docs.google.com/document/d/1NPk5HZLfSMLpUsqaqVcbUSmSR66gS8WoJmEqfsCwrrE)
 * [2023 Meeting Minutes](https://docs.google.com/document/d/18lIznkQyrcD_KI-7bKhWJQ5bjwdHpdzelA9kPTF1Gow/edit)
 * [2022 Meeting Minutes](https://docs.google.com/document/d/1wuly4bt7zSv4WYsbsr3AlNdq6QOMPCAAt2jtr0PtfQM/edit)
+
+## Prior Work
+
+* [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-oss-developers)
+* [The OpenSSF's Mobilization Plan - Stream 1](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
+* [EDU.SIG Plan rewrite](https://github.com/ossf/education/tree/main/plan)
+* [The OpenSSF's Education Plan](https://github.com/ossf/education/tree/main/plan)
 
 ## Governance
 
